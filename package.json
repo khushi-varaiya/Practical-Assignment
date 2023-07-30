@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "mysql": "^2.18.1",
+    "ws": "^8.13.0"
+  },
+      "scripts": {
+        "test": "test.js",
+        "start": "q10.js",
+        "myscript": "q10.js",
+        "script1": "q10.js",
+        "script2": "q10.js"
+      },
+      "author": "",
+      "license":"ISC"
+  }
